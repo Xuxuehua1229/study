@@ -30,6 +30,8 @@ class B extends A{
 		System.out.print("  "+"b");
 	}
 }
+
+
 public class Test {
 	/*class parent{
 	    private static  int a=1;
